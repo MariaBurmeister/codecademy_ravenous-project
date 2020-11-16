@@ -13,12 +13,12 @@ const business = {
   reviewCount: 90
 }
 
-class Business extends ReactComponent {
+class Business extends React.Component {
     render() {
         return (
             <div className="Business">
                 <div className="image-container">
-                    <img src={business.imgSrc} alt={business.name}/>
+                    <img src={business.imageSrc} alt={business.name}/>
                 </div>
                 <h2>{business.name}</h2>
                 <div className="Business-information">
