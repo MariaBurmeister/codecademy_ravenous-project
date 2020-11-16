@@ -1,6 +1,4 @@
-import { ReactComponent } from '*.svg';
 import React from 'react';
-import ReactDOM from 'react-dom';
 import './Business.css';
 
 const business = {
@@ -15,7 +13,7 @@ const business = {
   reviewCount: 90
 }
 
-class Business extends React.Component {
+class Business extends ReactComponent {
     render() {
         return (
             <div className="Business">
