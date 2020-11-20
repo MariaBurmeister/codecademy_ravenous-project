@@ -13,4 +13,6 @@ I had to follow a step by step to **add component directories**, aswell as **wri
 
 In **[Part II](https://www.codecademy.com/paths/web-development/tracks/front-end-applications-with-react/modules/ravenous-part-two/projects/passing-information)** I removed hard coded Info from child components into parent component, designing how future information from **[Yelp API](https://www.yelp.com/developers/documentation/v3)** will flow.
 
-Part III is underway.
+In **[Part III](https://www.codecademy.com/paths/web-development/tracks/front-end-applications-with-react/modules/ravenous-part-three/projects/setting-searchbar-state)** I set the states of the interactime search elements and simulated a search query action for my "Let's Go" button.
+
+**Part IV** is underway.
