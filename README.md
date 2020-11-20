@@ -11,4 +11,6 @@ I had to follow a step by step to **add component directories**, aswell as **wri
 
 **CSS was completely provided by codecademy**, and not written by me.
 
-Part II and following have not yet been started.
+In **[Part II](https://www.codecademy.com/paths/web-development/tracks/front-end-applications-with-react/modules/ravenous-part-two/projects/passing-information)** I removed hard coded Info from child components into parent component, designing how future information from **[Yelp API](https://www.yelp.com/developers/documentation/v3)** will flow.
+
+Part III is underway.
