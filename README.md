@@ -1,5 +1,8 @@
-# ravenous-a-yelp-like-react-project_codecademy
+# codecademy ravenous project
 This is a **[Codecademy](https://www.codecademy.com/learn) Project** using React.
+
+### description:
+Aims to create a yelp like react project using the Yelp API.
 
 
 
